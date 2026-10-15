@@ -1,9 +1,25 @@
-# EduMath-Toolkit
+# EduMath-Toolkit 🎓
 
-Una herramienta educativa de código abierto basada en Python, diseñada para estudiantes y profesores de Bachillerato.
+![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)
+![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Status](https://img.shields.io/badge/Status-Active_Development-orange.svg)
 
-## Propósito
-Este proyecto busca democratizar el acceso a herramientas de cálculo automático, dibujo técnico y simulaciones de física, sin depender de software de pago. Es una herramienta de apoyo para automatizar la creación de ejercicios y preparar pruebas de acceso a la universidad (PAU).
+Una suite de herramientas educativas de código abierto desarrolladas en Python, diseñadas para apoyar la enseñanza y el aprendizaje práctico de matemáticas, geometría analítica y física en educación secundaria y Bachillerato.
 
-## Estado actual
-El código se encuentra en fase de reestructuración y actualmente se utiliza y distribuye de forma local para generar material didáctico y resolver problemas de ciencias.
+## 🚀 Características Principales
+
+- **Geometría Computacional:** Cálculo de áreas, perímetros y proyecciones espaciales mediante algoritmos como la fórmula de Shoelace (Gauss).
+- **Simulación y Visualización:** Integración de interfaces gráficas dinámicas para la resolución de problemas tipo PAU (Pruebas de Acceso a la Universidad).
+- **Herramientas de Código Abierto:** Alternativa ligera y gratuita a softwares comerciales complejos de SIG y CAD.
+
+## 📦 Instalación
+
+```bash
+# Clonar el repositorio
+git clone [https://github.com/tu-usuario/EduMath-Toolkit.git](https://github.com/tu-usuario/EduMath-Toolkit.git)
+
+# Instalar dependencias
+pip install -r requirements.txt
+
+# Ejecutar aplicación
+python main.py
